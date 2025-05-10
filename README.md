@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **anguyen.mg@gmail.com**
 - My Portfolio : **<a href="https://portfolio-anjr.netlify.app">My Portfolio</a>**
-- - My CV : **<a href="anguyen0501.github.io/my_cv/ ">My Portfolio</a>**
+- My CV : **<a href="https://anguyen0501.github.io/my_cv/ ">My Portfolio</a>**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
